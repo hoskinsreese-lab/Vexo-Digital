@@ -21,3 +21,6 @@ The Firestone Pizza demo is labeled a concept project. Update its URL if your Gi
 
 ## Before commercial launch
 Confirm the Vexo Digital name and domain do not conflict with existing businesses or trademarks. Review website copy, contact details, and project links.
+
+
+Portfolio demo: the Firestone Pizza card links to `firestone-demo/` inside this same site. Upload the `firestone-demo` folder and its four files to GitHub alongside the main `index.html`.
